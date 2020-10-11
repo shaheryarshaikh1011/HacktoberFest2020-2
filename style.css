@@ -150,8 +150,17 @@ a {
  .social-btn.github:after {
   font-size: 20px;
 }
+
 .social-btn.twitter:after {
   font-size: 20px;
+}
+.social-btn.github:hover {
+  background-color: cyan;
+  color: #db70c5;
+}
+.social-btn.twitter:hover {
+  background-color: cyan;
+  color: #db70c5;
 }
 
 #foot {
